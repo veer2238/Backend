@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "taxiimg": "https://i.ibb.co/hMR9KkC/alto.png",
+        "base_rate": 10,
+        "per_km": 7,
+        "class": "Normal"
+    },
+    {
+        "id": 2,
+        "taxiimg": "https://i.ibb.co/zQDQtbT/nano.png",
+        "base_rate": 12,
+        "per_km": 10,
+        "class": "Normal"
+    },
+    {
+        "id": 3,
+        "taxiimg": "https://i.ibb.co/m0MjGQN/wagno-r.png",
+        "base_rate": 15,
+        "per_km": 14,
+        "class": "Normal"
+    },
+    {
+        "id": 4,
+        "taxiimg": "https://i.ibb.co/M78zxDm/taxi.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Normal"
+    },
+ 
+    {
+        "id": 5,
+        "taxiimg": "https://i.ibb.co/KqM8Dfr/ecosport.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Suv"
+    },
+    {
+        "id": 6,
+        "taxiimg": "https://i.ibb.co/x65RnNh/innova.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Suv"
+    },
+    {
+        "id": 7,
+        "taxiimg": "https://i.ibb.co/MfjbpMT/suv.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    },
+    {
+        "id": 8,
+        "taxiimg": "https://i.ibb.co/NStq1vH/travera-2.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    },
+
+    {
+        "id": 9,
+        "taxiimg": "https://i.ibb.co/dWPjGPt/traveller.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    },
+    {
+        "id": 10,
+        "taxiimg": "https://i.ibb.co/WFtcQwx/mt-2.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    },
+    {
+        "id": 11,
+        "taxiimg": "https://i.ibb.co/VphZX0X/toyota.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    },
+    {
+        "id": 12,
+        "taxiimg": "https://i.ibb.co/vvZL9W7/hyundai.png",
+        "base_rate": 20,
+        "per_km": 20,
+        "class": "Traveller"
+    }
+]

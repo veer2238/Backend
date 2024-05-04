@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "sname": "Online Booking",
+       "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      },
+      {
+        "id": 2,
+        "sname": "City Transport",
+        "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      },
+      {
+        "id": 3,
+        "sname": "Airport Transport",
+        "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      },
+      {
+        "id": 4,
+        "sname": "Business Transport",
+        "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      },
+      {
+        "id": 5,
+        "sname": "Regular Transport",
+        "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      },
+      {
+        "id": 6,
+        "sname": "Tour Transport",
+        "sp": "There are many variations of passages orem psum available but the majority have suffered alteration in some form by injected."
+      }
+    ]
